@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estou trabalhando atualmente em projetos pessoais/estudos . 🤓<br>Estou procurando colaborar em projetos que vejo futuro de crescimento e praticar ...👨‍💻<br>Atualmente estou aprendendo C# POO e JavaScript e SQL ... 🎲<br>Pergunte-me sobre qualquer duvida !? ⛩️<br>Curiosidade, sou Sorocabano e São paulo até morrer heheheh 🎓
+Estou trabalhando atualmente em projetos pessoais/estudos . 🤓<br>Estou procurando colaborar em projetos que vejo futuro de crescimento e praticar ...👨‍💻<br>Atualmente estou aprendendo C# POO e JavaScript e SQL ... 🎲<br>Pergunte-me sobre qualquer duvida !? ⛩️<br>Curiosidade, sou Sorocabano e São paulino  até o FIM heheheh 
 
 
 ## 🌐 Socials:
