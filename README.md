@@ -7,7 +7,6 @@ Estou trabalhando atualmente em projetos pessoais/estudos . 🤓<br>Estou a proc
 # 💻 Tech Stack:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=yellow) 
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white) 
