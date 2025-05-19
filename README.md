@@ -1,6 +1,5 @@
 # 💫 About Me:
-Estou trabalhando atualmente em projetos pessoais/estudos . 🤓<br>Estou procurando colaborar em projetos que vejo futuro de crescimento e praticar ...👨‍💻<br>Atualmente estou aprendendo C# POO e Inicianilizando os estudos em Data Scients ... 🎲<br><br>Curiosidade, sou Sorocabano e São paulino  até o FIM heheheh 
-
+Estou trabalhando atualmente em projetos pessoais/estudos . 🤓<br>Estou a procura de  uma oportunidade de colaborar em projetos...👨‍💻<br>Atualmente estou aprendendo Python para o aprofundamento em Data Scients ... 🎲 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jean_cigerza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jean-cigerza-785111194/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeancigerza@gmail.com) 
